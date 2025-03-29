@@ -19,5 +19,34 @@ Table 2:
 
 
 
+Figure x: This figure visualizes the top 15 ROIs with the highest SHAP values for ADNI dataset. Notably, the label of nodes is provided by AAL atals. For ADNI, the identified regions, such as Thalamus and Fusiform, are highly associated with Alzheimer’s disease, and are consistent with findings reported in prior neuroscience studies [1–2]. 
+
+[1] Forno, G., Saranathan, M., Contador, J., Guillen, N., Falgàs, N., Tort-Merino, A., ... & Lladó, A. (2023). Thalamic nuclei changes in early and late onset Alzheimer's disease. Current Research in Neurobiology, 4, 100084.
+
+[2] Ribeiro-dos-Santos, A., de Brito, L. M., & de Araújo, G. S. (2023). The fusiform gyrus exhibits differential gene-gene co-expression in Alzheimer's disease. Frontiers in Aging Neuroscience, 15, 1138336.
+
+
+<img width="1392" alt="image" src="https://github.com/user-attachments/assets/52288c28-068b-447d-982e-953311a7a839" />
+
+Figure x: This figure visualizes the top 15 ROIs with the highest SHAP values for PPMI dataset. For PPMI, the identified regions, such as Rectus and Olfactory, are highly associated with Parkinson’s disease, and are consistent with those reported in neuroscience studies [3-4]. 
+
+[3] Gu, Y., Zhang, J., Zhao, X., Nie, W., Xu, X., Liu, M., & Zhang, X. (2024). Olfactory dysfunction and its related molecular mechanisms in Parkinson’s disease. Neural Regeneration Research, 19(3), 583-590.
+
+[4] Kataoka, H., & Sugie, K. (2023). Persistent intolerable abdominal pain in patients with Parkinson’s disease. Clinical Neurology and Neurosurgery, 224, 107558.
+
+
+<img width="1389" alt="image" src="https://github.com/user-attachments/assets/14ef8d45-d920-401a-ac0d-514ddbd2e5e6" />
+
+Figure x: This figure visualizes the top 15 ROIs with the highest SHAP values for 4RTNI dataset. For 4RTNI, the identified regions, such as Paracentral_Lobule, are highly associated with Progressive Supranuclear Palsy and Corticobasal Syndrome, and are consistent with those reported in neuroscience studies[5].
+
+[5] Kitagaki, H., Hirono, N., Ishii, K., & Mori, E. (2000). Corticobasal degeneration: evaluation of cortical atrophy by means of hemispheric surface display generated with MR images. Radiology, 216(1), 31-38.
+
+
+
+<img width="1388" alt="image" src="https://github.com/user-attachments/assets/3572e30d-7c8c-40a8-9d90-2aa7f4d9a713" />
+
+
+
+
 
 
